@@ -102,7 +102,9 @@ print(classification_report(y_test, y_pred, zero_division=1))
 ```
 
 ## 📷 Screenshots
-1.![Screenshot (289)](https://github.com/user-attachments/assets/0cbafc4d-06a4-44b4-8a3c-d30818023c5a)
+1.![Screenshot (289)](https://github.com/user-attachments/assets/7f05a840-fa7f-4866-b95a-01b101049c63)
+
+
 
 2.![Screenshot (287)](https://github.com/user-attachments/assets/dc6b04d1-a3bf-46db-92d2-3e4be99e0cef)
 
