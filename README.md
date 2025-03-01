@@ -23,7 +23,7 @@ Alternative: If included in the repo, you can find it in the /data folder.
 
 💻 Installation
 🔧 1. Clone the Repository
-git clone https://github.com/YourUsername/Wine-Data-Cleaning.git
+git clone https://github.com/PayalV09/Wine-Data-Cleaning.git
 cd Wine-Data-Cleaning
 
 📦 2. Install Dependencies
