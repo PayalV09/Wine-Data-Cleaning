@@ -1,5 +1,5 @@
  Wine Data Cleaning - Machine Learning Project
-🔗 Repository: [GitHub Link Here]
+🔗 Repository:https://github.com/PayalV09/Wine-Data-Cleaning/edit/main/README.md
 
 📜 Project Overview
 This project focuses on cleaning and preprocessing a wine dataset to prepare it for machine learning models. The dataset undergoes various steps like handling missing values, outlier detection, feature engineering, and normalization.
@@ -56,9 +56,9 @@ Run the preprocessing script directly:
 7️⃣ Save the cleaned dataset for further use
 
 📷 Screenshots
-1.[Uploading Screenshot (289).png…]()
-2.![Screenshot (287)](https://github.com/user-attachments/assets/85547531-e79b-4103-8984-0d15c81f211d)
-3.![Screenshot (284)](https://github.com/user-attachments/assets/447eb740-fa87-48d0-b8f8-5facbec9d477)
+1.![Screenshot (289)](https://github.com/user-attachments/assets/523e4073-80a4-4640-b858-76caeef9f887)
+2.![Screenshot (287)](https://github.com/user-attachments/assets/b68d8186-4d7b-4898-acb8-7cf037c5b207)
+3.![Screenshot (284)](https://github.com/user-attachments/assets/5e7b367f-650f-4f3d-810c-c1e52eb9d097)
 
 
 
