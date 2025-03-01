@@ -102,9 +102,15 @@ print(classification_report(y_test, y_pred, zero_division=1))
 ```
 
 ## 📷 Screenshots
-1. Screenshot (289)
-2. Screenshot (287)
-3. Screenshot (284)
+1.![Screenshot (289)](https://github.com/user-attachments/assets/0cbafc4d-06a4-44b4-8a3c-d30818023c5a)
+
+2.![Screenshot (287)](https://github.com/user-attachments/assets/dc6b04d1-a3bf-46db-92d2-3e4be99e0cef)
+
+3.![Screenshot (284)](https://github.com/user-attachments/assets/3993a606-026a-42c9-821e-9ab8fcac1862)
+
+4.![image](https://github.com/user-attachments/assets/96e37ef3-64d9-40a7-8e29-b54ff01b1a3e)
+
+
 
 ## 🛠 Future Enhancements
 ✅ Apply more machine learning models (XGBoost, SVM, etc.)  
@@ -112,11 +118,6 @@ print(classification_report(y_test, y_pred, zero_division=1))
 ✅ Build an interactive dashboard  
 ✅ Optimize feature selection and hyperparameters  
 
-## 🙌 Contribution
-If you'd like to contribute:
-1. Fork the repo
-2. Create a feature branch
-3. Submit a pull request
 
 Happy coding! 🚀
 
